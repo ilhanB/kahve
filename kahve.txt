@@ -1,1 +1,2 @@
-iyi bir kahve için gerekenler 
+iyi bir kahve için gerekenler:
+1. kahve çekirdeği seçimi 
