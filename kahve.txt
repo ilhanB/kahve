@@ -10,3 +10,4 @@ iyi bir kahve için gerekenler:
 9. çikolata
 10. paralines
 11. yeni kodlar eklendi
+12. i05 branch'ı oluşturuldu
