@@ -4,4 +4,4 @@ iyi bir kahve için gerekenler:
 3. sunum
 4. şeker
 5. krema
-5. hatasız kul olmaz 
+6. hatasız kul olmaz 
