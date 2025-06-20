@@ -8,3 +8,4 @@ iyi bir kahve için gerekenler:
 7. vs code geçildi
 8. commit
 9. çikolata
+10. paralines
