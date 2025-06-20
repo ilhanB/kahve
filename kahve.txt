@@ -3,4 +3,5 @@ iyi bir kahve için gerekenler:
 2. su sıcaklığı 90^
 3. sunum
 4. şeker
-5. krema 
+5. krema
+6. hata satırı 
