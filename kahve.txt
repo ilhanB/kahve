@@ -1,4 +1,4 @@
 iyi bir kahve için gerekenler:
 1. kahve çekirdeği seçimi
 2. su sıcaklığı 90^
- 
+3. sunum 
