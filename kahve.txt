@@ -5,3 +5,4 @@ iyi bir kahve için gerekenler:
 4. şeker
 5. krema
 6. hatasız kul olmaz 
+7. vs code geçildi
