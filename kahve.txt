@@ -6,3 +6,5 @@ iyi bir kahve için gerekenler:
 5. krema
 6. hatasız kul olmaz 
 7. vs code geçildi
+8. commit
+9. çikolata
